@@ -1,0 +1,7 @@
+[package]
+name = "i3-tabber"
+version = "0.1.0"
+authors = ["Kit Westneat <kit.westneat@gmail.com>"]
+edition = "2018"
+
+[dependencies]
