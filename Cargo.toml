@@ -5,3 +5,7 @@ authors = ["Kit Westneat <kit.westneat@gmail.com>"]
 edition = "2018"
 
 [dependencies]
+
+[dependencies.i3ipc]
+version = "0.10.1"
+
